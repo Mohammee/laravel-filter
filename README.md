@@ -13,7 +13,7 @@ Usage :
 Example :
 
 ```  
-useMohammadabusultan\LaravelFilter\Filterable;
+use Mohammadabusultan\LaravelFilter\Filterable;
 
 class User extends Model {
 
