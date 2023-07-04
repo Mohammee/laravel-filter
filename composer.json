@@ -1,0 +1,21 @@
+{
+    "name": "mohammadabusultan/laravel-filter",
+    "description": "A Laravel package for adding filter functionality to models.",
+    "type": "library",
+    "require": {
+        "illuminate/support": "*",
+        "illuminate/database": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohammadabusultan\\LaravelFilter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Abusulatn",
+            "email": "mohammeed204@gmail.com"
+        }
+    ]
+}
