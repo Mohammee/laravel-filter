@@ -3,6 +3,7 @@
     "description": "A Laravel package for adding filter functionality to models.",
     "type": "library",
     "require": {
+        "php": "^8.0",
         "illuminate/support": "*",
         "illuminate/database": "*"
     },
