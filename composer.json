@@ -2,7 +2,7 @@
     "name": "mohammadabusultan/laravel-filter",
     "description": "A Laravel package for adding filter functionality to models.",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "alpha",
     "require": {
         "php": "^8.0",
         "illuminate/support": "*",
